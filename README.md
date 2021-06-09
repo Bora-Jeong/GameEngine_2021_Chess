@@ -10,9 +10,15 @@ PvP 캐릭터 체스 게임
 
 내이름은코난탐정이조
 
-### Member
+### Members
 
-강보석(팀장), 이성은, 정보라, 황주영
+강보석(팀장) https://github.com/Arshar3706
+
+이성은 https://github.com/SungEun-Yi
+
+정보라 https://github.com/Bora-Jeong
+
+황주영 https://github.com/JuyeongHwang
 
 ### Development
 Unreal Engine 4
